@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/w3irdsh4rk/w3irdsh4rk/main/j3veqfu4ex/Edited.jpeg?token=GHSAT0AAAAAACBWWLT3QCU3ITJ2D7BJJ3JMZCPO36A" width=600 height=500>
+<img src="j3veqfu4ex/Edited.jpeg" width=600 height=500>
 # 💫 About Me:
   **CTF Player | 2nd Year Computer Science Student | Enigmatic**
 
