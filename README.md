@@ -1,4 +1,3 @@
-<img src="j3veqfu4ex/Edited.jpeg" width=600 height=500>
 
 # 💫 About Me:
 **CTF Player | 2nd Year Computer Science Student | Enigmatic**
