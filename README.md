@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-**CTF Player | 2nd Year Computer Science Student | Enigmatic**
+**CTF Player | 3rd Year Computer Science Student | Enigmatic**
 
 
 ## 🌐 Socials:
