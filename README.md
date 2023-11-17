@@ -3,7 +3,7 @@
 **CTF Player | Computer Science Student | Enigmatic**
 
 
-<div style="display: flex;"><img src="https://5h4rrk.github.io/assets/shark.gif" alt="Coding" height="300px"/>
+<img src="https://5h4rrk.github.io/assets/shark.gif" alt="5h4rrK" width="300px" height="300px" style="transform: rotate(180deg);"/>
 
 
 
