@@ -3,7 +3,9 @@
 **CTF Player | Computer Science Student | Enigmatic**
 
 
-<div style="display: flex;"><img src="https://media1.giphy.com/media/fmkYSBlJt3XjNF6p9c/200w.gif?cid=6c09b952l7pkiptdd8oj5f4wisgcksmmb1and6cfrlowwahq&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Coding" height="300px"/>
+<div style="display: flex;"><img src="https://5h4rrk.github.io/assets/shark.gif" alt="Coding" height="300px"/>
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/5abhya_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabhya-raj-mehta-6012a8262) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@5h4rk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_w31rd5h4rk_) 
