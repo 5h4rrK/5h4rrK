@@ -70,6 +70,6 @@ Hey there, I'm Sabhya Raj Mehta. I'm really into Digital Forensics, & Incident R
 
 
 
-
+<!-- 
 <img src="https://raw.githubusercontent.com/5h4rrK/5h4rrK/output/snake.svg" alt="Snake animation" />
-
+ -->
