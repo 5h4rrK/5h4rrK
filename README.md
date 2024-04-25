@@ -14,7 +14,7 @@ Hey there, I'm Sabhya Raj Mehta. I'm interested in Digital Forensics & Incident 
 
 + 🏫 I'm an undergrad student pursuing B.Tech CSE at Amrita University
 + 👨🏻‍💻 Member at [teambi0s](https://github.com/teambi0s) specializing in DFIR
-+ 📝 I write articles on [blog](https://5h4rrK.github.io/blog)
++ 📝 I write articles on [blog](https://5h4rrK.github.io/)
 + 📫 You can reach me via [Gmail](mailto:abhrajmeh05@gmail.com).
 
 ###
