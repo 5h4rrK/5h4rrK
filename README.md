@@ -10,7 +10,7 @@
 
 ###
 
-Hey there, I'm Sabhya Raj Mehta. I'm interested in Digital Forensics & Incident Response, and Malware Analysis, and also exploring the applications of Deep Learning. <br>
+Hey there, I'm Sabhya Raj Mehta. I'm interested in Digital Forensics & Incident Response, and Malware Analysis. <br>
 
 + 🏫 I'm an undergrad student pursuing B.Tech CSE at Amrita University
 + 👨🏻‍💻 Member at [teambi0s](https://github.com/teambi0s) specializing in DFIR
