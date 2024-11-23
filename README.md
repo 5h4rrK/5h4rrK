@@ -4,7 +4,7 @@
 
 ```bash
 C:\Users\5h4rrK> whoami  
-Sabhya Raj  
+5h4rrK\Sabhya
 
 C:\Users\5h4rrK> net use \\tech\* /persistent:yes   
 Connected to infinite exploration.  
